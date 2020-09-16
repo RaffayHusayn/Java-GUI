@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaGUI.iml" filepath="$PROJECT_DIR$/JavaGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginGUI.iml" filepath="$PROJECT_DIR$/LoginGUI.iml" />
     </modules>
   </component>
 </project>
